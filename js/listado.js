@@ -1,4 +1,5 @@
-var Listado = function(restaurantes) {
+var Listado = function(restaurantes) 
+{
     this.restaurantes = restaurantes;
 }
 
